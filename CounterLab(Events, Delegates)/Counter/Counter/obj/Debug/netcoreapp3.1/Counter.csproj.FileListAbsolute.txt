@@ -1,0 +1,11 @@
+E:\EPAM Labs\CounterLab(Events, Delegates)\Counter\Counter\bin\Debug\netcoreapp3.1\Counter.exe
+E:\EPAM Labs\CounterLab(Events, Delegates)\Counter\Counter\bin\Debug\netcoreapp3.1\Counter.deps.json
+E:\EPAM Labs\CounterLab(Events, Delegates)\Counter\Counter\bin\Debug\netcoreapp3.1\Counter.runtimeconfig.json
+E:\EPAM Labs\CounterLab(Events, Delegates)\Counter\Counter\bin\Debug\netcoreapp3.1\Counter.runtimeconfig.dev.json
+E:\EPAM Labs\CounterLab(Events, Delegates)\Counter\Counter\bin\Debug\netcoreapp3.1\Counter.dll
+E:\EPAM Labs\CounterLab(Events, Delegates)\Counter\Counter\bin\Debug\netcoreapp3.1\Counter.pdb
+E:\EPAM Labs\CounterLab(Events, Delegates)\Counter\Counter\obj\Debug\netcoreapp3.1\Counter.csprojAssemblyReference.cache
+E:\EPAM Labs\CounterLab(Events, Delegates)\Counter\Counter\obj\Debug\netcoreapp3.1\Counter.AssemblyInfoInputs.cache
+E:\EPAM Labs\CounterLab(Events, Delegates)\Counter\Counter\obj\Debug\netcoreapp3.1\Counter.AssemblyInfo.cs
+E:\EPAM Labs\CounterLab(Events, Delegates)\Counter\Counter\obj\Debug\netcoreapp3.1\Counter.dll
+E:\EPAM Labs\CounterLab(Events, Delegates)\Counter\Counter\obj\Debug\netcoreapp3.1\Counter.pdb
